@@ -26,9 +26,9 @@ This site contains documentation for:
 **LoopBack is a highly-extensible, open-source Node.js framework that enables you to**:
 
 - Create dynamic end-to-end REST APIs with little or no coding.
-- Access data from major relational databases, MongoDB, SOAP and REST APIs.
+- Access data from major relational databases, MongoDB, SOAP, and REST APIs.
 - Incorporate model relationships and access controls for complex APIs.
-- Separable components for file storage, third-party login, and OAuth 2.0.
+- Use separable components for file storage, third-party login, and OAuth 2.0.
 " %}
 
 ## LoopBack documentation
